@@ -3,6 +3,7 @@
 layout: page
 title: "Our Data Story"
 description: "Exploring a fascinating question with data"
+permalink: /
 ---
 
 ## Introduction
