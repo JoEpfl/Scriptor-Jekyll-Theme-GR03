@@ -29,6 +29,20 @@ We can visualize this relationship below.
 
 Our next analysis reveals...
 
+## Chart testing 101
+
+We counted observations in each month to see whether activity changed.
+
+<iframe
+  src="{{ '/assets/figures/observations-by-month.html' | relative_url }}"
+  title="Monthly observations from January to June"
+  width="100%"
+  height="520"
+  style="border: 0;">
+</iframe>
+
+The chart shows an overall increase, with a dip in March.
+
 ## Conclusion
 
 Our analysis shows that...
